@@ -131,7 +131,7 @@ $ git clone https://github.com/tiimgreen/github-cheat-sheet
 
 #### Compare all Branches to Another Branch
 
-If you go to the repo's [Branches](https://github.com/tiimgreen/github-cheat-sheet/branches) ⭐ 58,527 | 🐛 48 | 📅 2024-04-15 page, next to the Commits button:
+If you go to the repo's [Branches](https://github.com/tiimgreen/github-cheat-sheet/branches) ⭐ 58,553 | 🐛 48 | 📅 2024-04-15 page, next to the Commits button:
 
 ```
 https://github.com/{user}/{repo}/branches
@@ -319,7 +319,7 @@ If set up correctly, every time you receive a Pull Request, [Travis CI](https://
 
 Both issues and pull requests allow filtering in the user interface.
 
-For the Rails repo: <https://github.com/rails/rails/issues> ⭐ 58,686 | 🐛 1,593 | 🌐 Ruby | 📅 2026-08-15, the following filter is built by selecting the label "activerecord":
+For the Rails repo: <https://github.com/rails/rails/issues> ⭐ 58,685 | 🐛 1,592 | 🌐 Ruby | 📅 2026-08-17, the following filter is built by selecting the label "activerecord":
 
 `is:issue label:activerecord`
 
@@ -368,7 +368,7 @@ table.add_row('Tim Green', 'tiimgreen@gmail.com')
 puts table.to_s
 ```
 
-GitHub uses [Linguist](https://github.com/github/linguist) ⭐ 13,642 | 🐛 232 | 🌐 Ruby | 📅 2026-08-12 to perform language detection and syntax highlighting. You can find out which keywords are valid by perusing the [languages YAML file](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml) ⭐ 13,642 | 🐛 232 | 🌐 Ruby | 📅 2026-08-12.
+GitHub uses [Linguist](https://github.com/github/linguist) ⭐ 13,642 | 🐛 229 | 🌐 Ruby | 📅 2026-08-16 to perform language detection and syntax highlighting. You can find out which keywords are valid by perusing the [languages YAML file](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml) ⭐ 13,642 | 🐛 229 | 🌐 Ruby | 📅 2026-08-16.
 
 [*Read more about GitHub Flavored Markdown.*](https://help.github.com/articles/github-flavored-markdown/)
 
@@ -628,7 +628,7 @@ GitHub can display several common image formats, including PNG, JPG, GIF, and PS
 
 ### Hub
 
-[Hub](https://github.com/github/hub) ⭐ 22,956 | 🐛 294 | 🌐 Go | 📅 2024-02-02 is a command line Git wrapper that gives you extra features and commands that make working with GitHub easier.
+[Hub](https://github.com/github/hub) ⭐ 22,957 | 🐛 294 | 🌐 Go | 📅 2024-02-02 is a command line Git wrapper that gives you extra features and commands that make working with GitHub easier.
 
 This allows you to do things like:
 
@@ -636,7 +636,7 @@ This allows you to do things like:
 $ hub clone tiimgreen/toc
 ```
 
-[*Check out some more cool commands Hub has to offer.*](https://github.com/github/hub#commands) ⭐ 22,956 | 🐛 294 | 🌐 Go | 📅 2024-02-02
+[*Check out some more cool commands Hub has to offer.*](https://github.com/github/hub#commands) ⭐ 22,957 | 🐛 294 | 🌐 Go | 📅 2024-02-02
 
 ### Contribution Guidelines
 
@@ -912,7 +912,7 @@ produces:
 
 Credit to [Palesz](http://stackoverflow.com/users/88355/palesz)
 
-*This can be aliased using the instructions found [here](https://github.com/tiimgreen/github-cheat-sheet#aliases) ⭐ 58,527 | 🐛 48 | 📅 2024-04-15.*
+*This can be aliased using the instructions found [here](https://github.com/tiimgreen/github-cheat-sheet#aliases) ⭐ 58,553 | 🐛 48 | 📅 2024-04-15.*
 
 [*Read more about the Git `log` command.*](http://git-scm.com/docs/git-log)
 
@@ -1121,7 +1121,7 @@ $ git config --global color.ui 1
 | Git Magic                                              | <http://www-cs-students.stanford.edu/~blynn/gitmagic/>                                       |
 | Git Visualization Playground                           | <http://onlywei.github.io/explain-git-with-d3/#freeplay>                                     |
 | Learn Git Branching                                    | <http://pcottle.github.io/learnGitBranching/>                                                |
-| A collection of useful .gitignore templates            | <https://github.com/github/gitignore> ⭐ 175,303 \| 🐛 83 \| 📅 2026-07-23                    |
+| A collection of useful .gitignore templates            | <https://github.com/github/gitignore> ⭐ 175,337 \| 🐛 83 \| 📅 2026-07-23                    |
 | Unixorn's git-extra-commands collection of git scripts | <https://github.com/unixorn/git-extra-commands> ⭐ 1,171 \| 🐛 2 \| 🌐 Shell \| 📅 2026-08-10 |
 
 #### Git Books
@@ -1155,4 +1155,4 @@ $ git config --global color.ui 1
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
