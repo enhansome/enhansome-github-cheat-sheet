@@ -131,7 +131,7 @@ $ git clone https://github.com/tiimgreen/github-cheat-sheet
 
 #### Compare all Branches to Another Branch
 
-If you go to the repo's [Branches](https://github.com/tiimgreen/github-cheat-sheet/branches) ⭐ 58,598 | 🐛 48 | 📅 2024-04-15 page, next to the Commits button:
+If you go to the repo's [Branches](https://github.com/tiimgreen/github-cheat-sheet/branches) ⭐ 58,602 | 🐛 48 | 📅 2024-04-15 page, next to the Commits button:
 
 ```
 https://github.com/{user}/{repo}/branches
@@ -319,7 +319,7 @@ If set up correctly, every time you receive a Pull Request, [Travis CI](https://
 
 Both issues and pull requests allow filtering in the user interface.
 
-For the Rails repo: <https://github.com/rails/rails/issues> ⭐ 58,694 | 🐛 1,589 | 🌐 Ruby | 📅 2026-08-18, the following filter is built by selecting the label "activerecord":
+For the Rails repo: <https://github.com/rails/rails/issues> ⭐ 58,695 | 🐛 1,586 | 🌐 Ruby | 📅 2026-08-18, the following filter is built by selecting the label "activerecord":
 
 `is:issue label:activerecord`
 
@@ -912,7 +912,7 @@ produces:
 
 Credit to [Palesz](http://stackoverflow.com/users/88355/palesz)
 
-*This can be aliased using the instructions found [here](https://github.com/tiimgreen/github-cheat-sheet#aliases) ⭐ 58,598 | 🐛 48 | 📅 2024-04-15.*
+*This can be aliased using the instructions found [here](https://github.com/tiimgreen/github-cheat-sheet#aliases) ⭐ 58,602 | 🐛 48 | 📅 2024-04-15.*
 
 [*Read more about the Git `log` command.*](http://git-scm.com/docs/git-log)
 
@@ -1121,7 +1121,7 @@ $ git config --global color.ui 1
 | Git Magic                                              | <http://www-cs-students.stanford.edu/~blynn/gitmagic/>                                       |
 | Git Visualization Playground                           | <http://onlywei.github.io/explain-git-with-d3/#freeplay>                                     |
 | Learn Git Branching                                    | <http://pcottle.github.io/learnGitBranching/>                                                |
-| A collection of useful .gitignore templates            | <https://github.com/github/gitignore> ⭐ 175,369 \| 🐛 84 \| 📅 2026-07-23                    |
+| A collection of useful .gitignore templates            | <https://github.com/github/gitignore> ⭐ 175,375 \| 🐛 84 \| 📅 2026-07-23                    |
 | Unixorn's git-extra-commands collection of git scripts | <https://github.com/unixorn/git-extra-commands> ⭐ 1,168 \| 🐛 7 \| 🌐 Shell \| 📅 2026-08-18 |
 
 #### Git Books
