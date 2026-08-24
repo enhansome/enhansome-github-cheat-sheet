@@ -1,7 +1,160 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hub",
+              "description": "is a command line Git wrapper that gives you extra features and commands that make working with GitHub easier.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 401025,
+                "language": "Go",
+                "last_commit": "2024-02-02T21:00:44Z",
+                "owner": "mislav",
+                "repo": "hub",
+                "stars": 22956
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Check out some more cool commands Hub has to offer.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 401025,
+                "language": "Go",
+                "last_commit": "2024-02-02T21:00:44Z",
+                "owner": "mislav",
+                "repo": "hub",
+                "stars": 22956
+              }
+            }
+          ],
+          "description": "This allows you to do things like:",
+          "node_type": "group",
+          "title": "Hub"
+        }
+      ],
+      "title": "GitHub"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Some Aliases are taken from @mathiasbynens dotfiles: https://github.com/mathiasbynens/dotfiles/blob/master/.gitconfig",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2329766,
+                    "language": "Shell",
+                    "last_commit": "2024-08-05T19:06:13Z",
+                    "owner": "mathiasbynens",
+                    "repo": "dotfiles",
+                    "stars": 31462
+                  }
+                }
+              ],
+              "description": "Aliases are helpers that let you define your own git calls. For example you could set to run .\nTo add an alias, either navigate to and fill it out in the following format:\n...or type in the command-line:\nFor example:\nFor an alias with multiple functions use quotes:\nSome useful aliases include:",
+              "node_type": "group",
+              "title": "Aliases"
+            }
+          ],
+          "description": "Your file contains all your Git configurations.",
+          "node_type": "group",
+          "title": "Git Configurations"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Git God",
+              "description": "https://github.com/gorosgobe/git-god",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115618925,
+                "language": "Ruby",
+                "last_commit": "2018-09-05T17:21:17Z",
+                "owner": "gorosgobe",
+                "repo": "git-god",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A collection of useful .gitignore templates",
+              "description": "https://github.com/github/gitignore",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1062897,
+                "language": null,
+                "last_commit": "2026-07-23T16:06:45Z",
+                "owner": "github",
+                "repo": "gitignore",
+                "stars": 175439
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unixorn's git-extra-commands collection of git scripts",
+              "description": "https://github.com/unixorn/git-extra-commands",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24296070,
+                "language": "Shell",
+                "last_commit": "2026-08-24T09:43:18Z",
+                "owner": "unixorn",
+                "repo": "git-extra-commands",
+                "stars": 1169
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Git Internals PluralSight",
+                  "description": "https://github.com/pluralsight/git-internals-pdf",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 12646170,
+                    "language": "Ruby",
+                    "last_commit": "2023-03-27T18:02:05Z",
+                    "owner": "pluralsight",
+                    "repo": "git-internals-pdf",
+                    "stars": 2617
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Git Books"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Git Resources"
+        }
+      ],
+      "title": "Git"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T06:28:35.140Z",
+    "last_updated": "2026-08-24T13:48:40.887Z",
     "original_repository": "tiimgreen/github-cheat-sheet",
     "original_repository_id": 18708860,
     "original_repository_sha": "746af1b42356973f66627319bbaf4ac5157c5308",
