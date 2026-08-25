@@ -62,7 +62,7 @@
                     "last_commit": "2024-08-05T19:06:13Z",
                     "owner": "mathiasbynens",
                     "repo": "dotfiles",
-                    "stars": 31462
+                    "stars": 31461
                   }
                 }
               ],
@@ -104,7 +104,7 @@
                 "last_commit": "2026-07-23T16:06:45Z",
                 "owner": "github",
                 "repo": "gitignore",
-                "stars": 175439
+                "stars": 175443
               }
             },
             {
@@ -116,7 +116,7 @@
                 "archived": false,
                 "id": 24296070,
                 "language": "Shell",
-                "last_commit": "2026-08-24T09:43:18Z",
+                "last_commit": "2026-08-24T17:22:09Z",
                 "owner": "unixorn",
                 "repo": "git-extra-commands",
                 "stars": 1169
@@ -154,7 +154,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:48:40.887Z",
+    "last_updated": "2026-08-25T05:42:48.548Z",
     "original_repository": "tiimgreen/github-cheat-sheet",
     "original_repository_id": 18708860,
     "original_repository_sha": "746af1b42356973f66627319bbaf4ac5157c5308",
