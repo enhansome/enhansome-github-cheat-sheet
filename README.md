@@ -131,7 +131,7 @@ $ git clone https://github.com/tiimgreen/github-cheat-sheet
 
 #### Compare all Branches to Another Branch
 
-If you go to the repo's [Branches](https://github.com/tiimgreen/github-cheat-sheet/branches) ⭐ 58,703 | 🐛 48 | 📅 2024-04-15 page, next to the Commits button:
+If you go to the repo's [Branches](https://github.com/tiimgreen/github-cheat-sheet/branches) ⭐ 58,720 | 🐛 48 | 📅 2024-04-15 page, next to the Commits button:
 
 ```
 https://github.com/{user}/{repo}/branches
@@ -319,7 +319,7 @@ If set up correctly, every time you receive a Pull Request, [Travis CI](https://
 
 Both issues and pull requests allow filtering in the user interface.
 
-For the Rails repo: <https://github.com/rails/rails/issues> ⭐ 58,709 | 🐛 1,591 | 🌐 Ruby | 📅 2026-08-25, the following filter is built by selecting the label "activerecord":
+For the Rails repo: <https://github.com/rails/rails/issues> ⭐ 58,718 | 🐛 1,605 | 🌐 Ruby | 📅 2026-08-25, the following filter is built by selecting the label "activerecord":
 
 `is:issue label:activerecord`
 
@@ -368,7 +368,7 @@ table.add_row('Tim Green', 'tiimgreen@gmail.com')
 puts table.to_s
 ```
 
-GitHub uses [Linguist](https://github.com/github/linguist) ⭐ 13,658 | 🐛 227 | 🌐 Ruby | 📅 2026-08-24 to perform language detection and syntax highlighting. You can find out which keywords are valid by perusing the [languages YAML file](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml) ⭐ 13,658 | 🐛 227 | 🌐 Ruby | 📅 2026-08-24.
+GitHub uses [Linguist](https://github.com/github/linguist) ⭐ 13,657 | 🐛 227 | 🌐 Ruby | 📅 2026-08-25 to perform language detection and syntax highlighting. You can find out which keywords are valid by perusing the [languages YAML file](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml) ⭐ 13,657 | 🐛 227 | 🌐 Ruby | 📅 2026-08-25.
 
 [*Read more about GitHub Flavored Markdown.*](https://help.github.com/articles/github-flavored-markdown/)
 
@@ -376,7 +376,7 @@ GitHub uses [Linguist](https://github.com/github/linguist) ⭐ 13,658 | 🐛 227
 
 Emojis can be added to Pull Requests, Issues, commit messages, repository descriptions, etc. using `:name_of_emoji:`.
 
-The full list of supported Emojis on GitHub can be found at [emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com/) or [scotch-io/All-Github-Emoji-Icons](https://github.com/scotch-io/All-Github-Emoji-Icons) ⭐ 1,241 | 🐛 6 | 🌐 Shell | 📅 2022-07-15.
+The full list of supported Emojis on GitHub can be found at [emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com/) or [scotch-io/All-Github-Emoji-Icons](https://github.com/scotch-io/All-Github-Emoji-Icons) ⭐ 1,242 | 🐛 6 | 🌐 Shell | 📅 2022-07-15.
 A handy emoji search engine can be found at [emoji.muan.co](http://emoji.muan.co/).
 
 The top 5 used Emojis on GitHub are:
@@ -912,7 +912,7 @@ produces:
 
 Credit to [Palesz](http://stackoverflow.com/users/88355/palesz)
 
-*This can be aliased using the instructions found [here](https://github.com/tiimgreen/github-cheat-sheet#aliases) ⭐ 58,703 | 🐛 48 | 📅 2024-04-15.*
+*This can be aliased using the instructions found [here](https://github.com/tiimgreen/github-cheat-sheet#aliases) ⭐ 58,720 | 🐛 48 | 📅 2024-04-15.*
 
 [*Read more about the Git `log` command.*](http://git-scm.com/docs/git-log)
 
@@ -1121,7 +1121,7 @@ $ git config --global color.ui 1
 | Git Magic                                              | <http://www-cs-students.stanford.edu/~blynn/gitmagic/>                                       |
 | Git Visualization Playground                           | <http://onlywei.github.io/explain-git-with-d3/#freeplay>                                     |
 | Learn Git Branching                                    | <http://pcottle.github.io/learnGitBranching/>                                                |
-| A collection of useful .gitignore templates            | <https://github.com/github/gitignore> ⭐ 175,443 \| 🐛 82 \| 📅 2026-07-23                    |
+| A collection of useful .gitignore templates            | <https://github.com/github/gitignore> ⭐ 175,459 \| 🐛 83 \| 📅 2026-08-25                    |
 | Unixorn's git-extra-commands collection of git scripts | <https://github.com/unixorn/git-extra-commands> ⭐ 1,169 \| 🐛 5 \| 🌐 Shell \| 📅 2026-08-24 |
 
 #### Git Books
@@ -1155,4 +1155,4 @@ $ git config --global color.ui 1
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
