@@ -104,7 +104,7 @@
                 "last_commit": "2026-08-25T17:02:50Z",
                 "owner": "github",
                 "repo": "gitignore",
-                "stars": 175470
+                "stars": 175475
               }
             },
             {
@@ -154,7 +154,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:40:43.320Z",
+    "last_updated": "2026-08-27T16:51:45.343Z",
     "original_repository_info": {
       "archived": false,
       "id": 18708860,
@@ -162,7 +162,7 @@
       "last_commit": "2024-04-15T20:15:56Z",
       "owner": "tiimgreen",
       "repo": "github-cheat-sheet",
-      "stars": 58731
+      "stars": 58737
     },
     "original_repository_sha": "746af1b42356973f66627319bbaf4ac5157c5308",
     "enhanced_repository": "enhansome/enhansome-github-cheat-sheet",
