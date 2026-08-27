@@ -17,7 +17,7 @@
                 "last_commit": "2024-02-02T21:00:44Z",
                 "owner": "mislav",
                 "repo": "hub",
-                "stars": 22956
+                "stars": 22957
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2024-02-02T21:00:44Z",
                 "owner": "mislav",
                 "repo": "hub",
-                "stars": 22956
+                "stars": 22957
               }
             }
           ],
@@ -62,7 +62,7 @@
                     "last_commit": "2024-08-05T19:06:13Z",
                     "owner": "mathiasbynens",
                     "repo": "dotfiles",
-                    "stars": 31461
+                    "stars": 31462
                   }
                 }
               ],
@@ -104,7 +104,7 @@
                 "last_commit": "2026-08-25T17:02:50Z",
                 "owner": "github",
                 "repo": "gitignore",
-                "stars": 175459
+                "stars": 175470
               }
             },
             {
@@ -116,10 +116,10 @@
                 "archived": false,
                 "id": 24296070,
                 "language": "Shell",
-                "last_commit": "2026-08-24T17:22:09Z",
+                "last_commit": "2026-08-26T21:59:08Z",
                 "owner": "unixorn",
                 "repo": "git-extra-commands",
-                "stars": 1169
+                "stars": 1168
               }
             },
             {
@@ -154,9 +154,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T06:22:41.198Z",
-    "original_repository": "tiimgreen/github-cheat-sheet",
-    "original_repository_id": 18708860,
+    "last_updated": "2026-08-27T11:40:43.320Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 18708860,
+      "language": null,
+      "last_commit": "2024-04-15T20:15:56Z",
+      "owner": "tiimgreen",
+      "repo": "github-cheat-sheet",
+      "stars": 58731
+    },
     "original_repository_sha": "746af1b42356973f66627319bbaf4ac5157c5308",
     "enhanced_repository": "enhansome/enhansome-github-cheat-sheet",
     "enhanced_repository_description": null,
