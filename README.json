@@ -18,7 +18,8 @@
                 "owner": "mislav",
                 "repo": "hub",
                 "stars": 22957
-              }
+              },
+              "first_seen": "2026-08-28T17:43:54.699Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "mislav",
                 "repo": "hub",
                 "stars": 22957
-              }
+              },
+              "first_seen": "2026-08-28T17:43:54.699Z"
             }
           ],
           "description": "This allows you to do things like:",
@@ -62,8 +64,9 @@
                     "last_commit": "2024-08-05T19:06:13Z",
                     "owner": "mathiasbynens",
                     "repo": "dotfiles",
-                    "stars": 31462
-                  }
+                    "stars": 31461
+                  },
+                  "first_seen": "2026-08-28T17:43:54.699Z"
                 }
               ],
               "description": "Aliases are helpers that let you define your own git calls. For example you could set to run .\nTo add an alias, either navigate to and fill it out in the following format:\n...or type in the command-line:\nFor example:\nFor an alias with multiple functions use quotes:\nSome useful aliases include:",
@@ -90,7 +93,8 @@
                 "owner": "gorosgobe",
                 "repo": "git-god",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T17:43:54.699Z"
             },
             {
               "node_type": "item",
@@ -104,8 +108,9 @@
                 "last_commit": "2026-08-25T17:02:50Z",
                 "owner": "github",
                 "repo": "gitignore",
-                "stars": 175475
-              }
+                "stars": 175485
+              },
+              "first_seen": "2026-08-28T17:43:54.699Z"
             },
             {
               "node_type": "item",
@@ -120,7 +125,8 @@
                 "owner": "unixorn",
                 "repo": "git-extra-commands",
                 "stars": 1168
-              }
+              },
+              "first_seen": "2026-08-28T17:43:54.699Z"
             },
             {
               "children": [
@@ -137,7 +143,8 @@
                     "owner": "pluralsight",
                     "repo": "git-internals-pdf",
                     "stars": 2617
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:43:54.699Z"
                 }
               ],
               "description": null,
@@ -154,7 +161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:51:45.343Z",
+    "last_updated": "2026-08-28T17:43:54.699Z",
     "original_repository_info": {
       "archived": false,
       "id": 18708860,
@@ -162,7 +169,7 @@
       "last_commit": "2024-04-15T20:15:56Z",
       "owner": "tiimgreen",
       "repo": "github-cheat-sheet",
-      "stars": 58737
+      "stars": 58764
     },
     "original_repository_sha": "746af1b42356973f66627319bbaf4ac5157c5308",
     "enhanced_repository": "enhansome/enhansome-github-cheat-sheet",
