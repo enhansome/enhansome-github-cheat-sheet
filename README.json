@@ -12,12 +12,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A command-line tool that makes git easier to use with GitHub.",
+                "homepage": "https://hub.github.com/",
                 "id": 401025,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-02-02T21:00:44Z",
+                "open_issues": 294,
                 "owner": "mislav",
                 "repo": "hub",
-                "stars": 22957
+                "stars": 22956,
+                "topics": [
+                  "git",
+                  "github-api",
+                  "go",
+                  "homebrew",
+                  "pull-request"
+                ]
               },
               "first_seen": "2026-08-28T17:43:54.699Z"
             },
@@ -28,12 +39,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A command-line tool that makes git easier to use with GitHub.",
+                "homepage": "https://hub.github.com/",
                 "id": 401025,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-02-02T21:00:44Z",
+                "open_issues": 294,
                 "owner": "mislav",
                 "repo": "hub",
-                "stars": 22957
+                "stars": 22956,
+                "topics": [
+                  "git",
+                  "github-api",
+                  "go",
+                  "homebrew",
+                  "pull-request"
+                ]
               },
               "first_seen": "2026-08-28T17:43:54.699Z"
             }
@@ -59,12 +81,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":wrench: .files, including ~/.macos — sensible hacker defaults for macOS",
+                    "homepage": "https://mths.be/dotfiles",
                     "id": 2329766,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2024-08-05T19:06:13Z",
+                    "open_issues": 186,
                     "owner": "mathiasbynens",
                     "repo": "dotfiles",
-                    "stars": 31461
+                    "stars": 31460,
+                    "topics": [
+                      "bash",
+                      "dotfiles",
+                      "macos"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:54.699Z"
                 }
@@ -87,12 +118,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A highly extensible script that allows to save configurations for easier, more meaningful, faster and safer comitting and pushing.",
+                "homepage": null,
                 "id": 115618925,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2018-09-05T17:21:17Z",
+                "open_issues": 0,
                 "owner": "gorosgobe",
                 "repo": "git-god",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "commit",
+                  "fast",
+                  "git",
+                  "god",
+                  "pull",
+                  "push",
+                  "script",
+                  "shortcut"
+                ]
               },
               "first_seen": "2026-08-28T17:43:54.699Z"
             },
@@ -103,12 +148,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of useful .gitignore templates",
+                "homepage": null,
                 "id": 1062897,
                 "language": null,
-                "last_commit": "2026-08-25T17:02:50Z",
+                "license": "CC0-1.0",
+                "last_commit": "2026-08-28T20:19:00Z",
+                "open_issues": 83,
                 "owner": "github",
                 "repo": "gitignore",
-                "stars": 175485
+                "stars": 175487,
+                "topics": [
+                  "git",
+                  "gitignore"
+                ]
               },
               "first_seen": "2026-08-28T17:43:54.699Z"
             },
@@ -119,12 +172,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of git utilities, useful extra git scripts, tutorials and other useful articles.",
+                "homepage": null,
                 "id": 24296070,
                 "language": "Shell",
-                "last_commit": "2026-08-26T21:59:08Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T23:20:07Z",
+                "open_issues": 4,
                 "owner": "unixorn",
                 "repo": "git-extra-commands",
-                "stars": 1168
+                "stars": 1168,
+                "topics": [
+                  "antigen",
+                  "bash",
+                  "collection",
+                  "devops",
+                  "devops-tools",
+                  "git",
+                  "hacktoberfest",
+                  "oh-my-zsh",
+                  "oh-my-zsh-plugin",
+                  "prezto",
+                  "shell-script",
+                  "shell-scripts",
+                  "sre",
+                  "zgenom",
+                  "zsh-plugin",
+                  "zsh-plugins"
+                ]
               },
               "first_seen": "2026-08-28T17:43:54.699Z"
             },
@@ -137,12 +212,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "PDF on Git Internals",
+                    "homepage": null,
                     "id": 12646170,
                     "language": "Ruby",
+                    "license": null,
                     "last_commit": "2023-03-27T18:02:05Z",
+                    "open_issues": 10,
                     "owner": "pluralsight",
                     "repo": "git-internals-pdf",
-                    "stars": 2617
+                    "stars": 2617,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:54.699Z"
                 }
@@ -161,15 +241,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:43:54.699Z",
+    "last_updated": "2026-08-29T04:10:36.100Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of cool features of Git and GitHub.",
+      "homepage": "http://git.io/sheet",
       "id": 18708860,
       "language": null,
+      "license": "MIT",
       "last_commit": "2024-04-15T20:15:56Z",
+      "open_issues": 48,
       "owner": "tiimgreen",
       "repo": "github-cheat-sheet",
-      "stars": 58764
+      "stars": 58774,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "git",
+        "github",
+        "list"
+      ]
     },
     "original_repository_sha": "746af1b42356973f66627319bbaf4ac5157c5308",
     "enhanced_repository": "enhansome/enhansome-github-cheat-sheet",
