@@ -157,7 +157,7 @@
                 "open_issues": 84,
                 "owner": "github",
                 "repo": "gitignore",
-                "stars": 175509,
+                "stars": 175519,
                 "topics": [
                   "git",
                   "gitignore"
@@ -177,8 +177,8 @@
                 "id": 24296070,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T23:20:07Z",
-                "open_issues": 4,
+                "last_commit": "2026-08-31T09:43:45Z",
+                "open_issues": 7,
                 "owner": "unixorn",
                 "repo": "git-extra-commands",
                 "stars": 1168,
@@ -241,7 +241,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T10:44:29.072Z",
+    "last_updated": "2026-08-31T11:53:45.213Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of cool features of Git and GitHub.",
@@ -253,7 +253,7 @@
       "open_issues": 48,
       "owner": "tiimgreen",
       "repo": "github-cheat-sheet",
-      "stars": 58794,
+      "stars": 58809,
       "topics": [
         "awesome",
         "awesome-list",
