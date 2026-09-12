@@ -90,7 +90,7 @@
                     "open_issues": 185,
                     "owner": "mathiasbynens",
                     "repo": "dotfiles",
-                    "stars": 31472,
+                    "stars": 31471,
                     "topics": [
                       "bash",
                       "dotfiles",
@@ -153,11 +153,11 @@
                 "id": 1062897,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-08T17:21:58Z",
-                "open_issues": 74,
+                "last_commit": "2026-09-11T16:15:42Z",
+                "open_issues": 73,
                 "owner": "github",
                 "repo": "gitignore",
-                "stars": 175707,
+                "stars": 175729,
                 "topics": [
                   "git",
                   "gitignore"
@@ -221,7 +221,7 @@
                     "open_issues": 10,
                     "owner": "pluralsight",
                     "repo": "git-internals-pdf",
-                    "stars": 2617,
+                    "stars": 2616,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:54.699Z"
@@ -241,7 +241,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T10:02:29.705Z",
+    "last_updated": "2026-09-12T09:38:13.607Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of cool features of Git and GitHub.",
@@ -253,7 +253,7 @@
       "open_issues": 48,
       "owner": "tiimgreen",
       "repo": "github-cheat-sheet",
-      "stars": 58989,
+      "stars": 59000,
       "topics": [
         "awesome",
         "awesome-list",
