@@ -157,7 +157,7 @@
                 "open_issues": 73,
                 "owner": "github",
                 "repo": "gitignore",
-                "stars": 175729,
+                "stars": 175749,
                 "topics": [
                   "git",
                   "gitignore"
@@ -221,7 +221,7 @@
                     "open_issues": 10,
                     "owner": "pluralsight",
                     "repo": "git-internals-pdf",
-                    "stars": 2616,
+                    "stars": 2615,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:54.699Z"
@@ -241,7 +241,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T09:38:13.607Z",
+    "last_updated": "2026-09-13T10:39:27.745Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of cool features of Git and GitHub.",
@@ -253,7 +253,7 @@
       "open_issues": 48,
       "owner": "tiimgreen",
       "repo": "github-cheat-sheet",
-      "stars": 59000,
+      "stars": 59015,
       "topics": [
         "awesome",
         "awesome-list",
