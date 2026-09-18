@@ -21,7 +21,7 @@
                 "open_issues": 296,
                 "owner": "mislav",
                 "repo": "hub",
-                "stars": 22955,
+                "stars": 22954,
                 "topics": [
                   "git",
                   "github-api",
@@ -48,7 +48,7 @@
                 "open_issues": 296,
                 "owner": "mislav",
                 "repo": "hub",
-                "stars": 22955,
+                "stars": 22954,
                 "topics": [
                   "git",
                   "github-api",
@@ -90,7 +90,7 @@
                     "open_issues": 185,
                     "owner": "mathiasbynens",
                     "repo": "dotfiles",
-                    "stars": 31476,
+                    "stars": 31478,
                     "topics": [
                       "bash",
                       "dotfiles",
@@ -157,7 +157,7 @@
                 "open_issues": 75,
                 "owner": "github",
                 "repo": "gitignore",
-                "stars": 175804,
+                "stars": 175819,
                 "topics": [
                   "git",
                   "gitignore"
@@ -177,8 +177,8 @@
                 "id": 24296070,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T09:43:20Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-17T16:57:07Z",
+                "open_issues": 7,
                 "owner": "unixorn",
                 "repo": "git-extra-commands",
                 "stars": 1172,
@@ -241,7 +241,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T10:28:54.727Z",
+    "last_updated": "2026-09-18T10:05:37.022Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of cool features of Git and GitHub.",
@@ -253,7 +253,7 @@
       "open_issues": 48,
       "owner": "tiimgreen",
       "repo": "github-cheat-sheet",
-      "stars": 59115,
+      "stars": 59134,
       "topics": [
         "awesome",
         "awesome-list",
