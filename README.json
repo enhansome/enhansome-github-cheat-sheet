@@ -21,7 +21,7 @@
                 "open_issues": 296,
                 "owner": "mislav",
                 "repo": "hub",
-                "stars": 22953,
+                "stars": 22954,
                 "topics": [
                   "git",
                   "github-api",
@@ -48,7 +48,7 @@
                 "open_issues": 296,
                 "owner": "mislav",
                 "repo": "hub",
-                "stars": 22953,
+                "stars": 22954,
                 "topics": [
                   "git",
                   "github-api",
@@ -90,7 +90,7 @@
                     "open_issues": 185,
                     "owner": "mathiasbynens",
                     "repo": "dotfiles",
-                    "stars": 31478,
+                    "stars": 31480,
                     "topics": [
                       "bash",
                       "dotfiles",
@@ -157,7 +157,7 @@
                 "open_issues": 77,
                 "owner": "github",
                 "repo": "gitignore",
-                "stars": 175865,
+                "stars": 175879,
                 "topics": [
                   "git",
                   "gitignore"
@@ -241,7 +241,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T10:23:06.502Z",
+    "last_updated": "2026-09-23T10:18:36.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of cool features of Git and GitHub.",
@@ -253,7 +253,7 @@
       "open_issues": 49,
       "owner": "tiimgreen",
       "repo": "github-cheat-sheet",
-      "stars": 59212,
+      "stars": 59227,
       "topics": [
         "awesome",
         "awesome-list",
