@@ -153,11 +153,11 @@
                 "id": 1062897,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-11T16:15:42Z",
-                "open_issues": 79,
+                "last_commit": "2026-09-25T21:16:01Z",
+                "open_issues": 72,
                 "owner": "github",
                 "repo": "gitignore",
-                "stars": 175912,
+                "stars": 175926,
                 "topics": [
                   "git",
                   "gitignore"
@@ -241,7 +241,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T10:36:22.754Z",
+    "last_updated": "2026-09-26T10:20:08.218Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of cool features of Git and GitHub.",
@@ -253,7 +253,7 @@
       "open_issues": 49,
       "owner": "tiimgreen",
       "repo": "github-cheat-sheet",
-      "stars": 59262,
+      "stars": 59277,
       "topics": [
         "awesome",
         "awesome-list",
