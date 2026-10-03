@@ -319,7 +319,7 @@ If set up correctly, every time you receive a Pull Request, [Travis CI](https://
 
 Both issues and pull requests allow filtering in the user interface.
 
-For the Rails repo: <https://github.com/rails/rails/issues> ⭐ 58,796 | 🐛 1,631 | 🌐 Ruby | 📅 2026-10-02, the following filter is built by selecting the label "activerecord":
+For the Rails repo: <https://github.com/rails/rails/issues> ⭐ 58,797 | 🐛 1,631 | 🌐 Ruby | 📅 2026-10-03, the following filter is built by selecting the label "activerecord":
 
 `is:issue label:activerecord`
 
@@ -1121,7 +1121,7 @@ $ git config --global color.ui 1
 | Git Magic                                              | <http://www-cs-students.stanford.edu/~blynn/gitmagic/>                                       |
 | Git Visualization Playground                           | <http://onlywei.github.io/explain-git-with-d3/#freeplay>                                     |
 | Learn Git Branching                                    | <http://pcottle.github.io/learnGitBranching/>                                                |
-| A collection of useful .gitignore templates            | <https://github.com/github/gitignore> ⭐ 176,015 \| 🐛 66 \| 📅 2026-10-02                    |
+| A collection of useful .gitignore templates            | <https://github.com/github/gitignore> ⭐ 176,016 \| 🐛 66 \| 📅 2026-10-02                    |
 | Unixorn's git-extra-commands collection of git scripts | <https://github.com/unixorn/git-extra-commands> ⭐ 1,171 \| 🐛 4 \| 🌐 Shell \| 📅 2026-10-02 |
 
 #### Git Books
