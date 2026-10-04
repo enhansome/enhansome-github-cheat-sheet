@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2024-02-02T21:00:44Z",
-                "open_issues": 296,
+                "open_issues": 295,
                 "owner": "mislav",
                 "repo": "hub",
-                "stars": 22955,
+                "stars": 22952,
                 "topics": [
                   "git",
                   "github-api",
@@ -45,10 +45,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2024-02-02T21:00:44Z",
-                "open_issues": 296,
+                "open_issues": 295,
                 "owner": "mislav",
                 "repo": "hub",
-                "stars": 22955,
+                "stars": 22952,
                 "topics": [
                   "git",
                   "github-api",
@@ -90,7 +90,7 @@
                     "open_issues": 185,
                     "owner": "mathiasbynens",
                     "repo": "dotfiles",
-                    "stars": 31484,
+                    "stars": 31487,
                     "topics": [
                       "bash",
                       "dotfiles",
@@ -157,7 +157,7 @@
                 "open_issues": 66,
                 "owner": "github",
                 "repo": "gitignore",
-                "stars": 176016,
+                "stars": 176018,
                 "topics": [
                   "git",
                   "gitignore"
@@ -177,8 +177,8 @@
                 "id": 24296070,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T15:05:36Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-03T15:03:44Z",
+                "open_issues": 2,
                 "owner": "unixorn",
                 "repo": "git-extra-commands",
                 "stars": 1171,
@@ -241,7 +241,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T10:41:00.641Z",
+    "last_updated": "2026-10-04T11:21:20.792Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of cool features of Git and GitHub.",
@@ -253,7 +253,7 @@
       "open_issues": 49,
       "owner": "tiimgreen",
       "repo": "github-cheat-sheet",
-      "stars": 59420,
+      "stars": 59443,
       "topics": [
         "awesome",
         "awesome-list",
