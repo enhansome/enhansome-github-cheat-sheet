@@ -154,10 +154,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-02T20:59:38Z",
-                "open_issues": 66,
+                "open_issues": 67,
                 "owner": "github",
                 "repo": "gitignore",
-                "stars": 176018,
+                "stars": 176026,
                 "topics": [
                   "git",
                   "gitignore"
@@ -177,8 +177,8 @@
                 "id": 24296070,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T15:03:44Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-05T09:43:01Z",
+                "open_issues": 3,
                 "owner": "unixorn",
                 "repo": "git-extra-commands",
                 "stars": 1171,
@@ -241,7 +241,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T11:21:20.792Z",
+    "last_updated": "2026-10-05T12:43:53.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of cool features of Git and GitHub.",
@@ -250,10 +250,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2024-04-15T20:15:56Z",
-      "open_issues": 49,
+      "open_issues": 50,
       "owner": "tiimgreen",
       "repo": "github-cheat-sheet",
-      "stars": 59443,
+      "stars": 59468,
       "topics": [
         "awesome",
         "awesome-list",
