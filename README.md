@@ -319,7 +319,7 @@ If set up correctly, every time you receive a Pull Request, [Travis CI](https://
 
 Both issues and pull requests allow filtering in the user interface.
 
-For the Rails repo: <https://github.com/rails/rails/issues> ⭐ 58,806 | 🐛 1,637 | 🌐 Ruby | 📅 2026-10-05, the following filter is built by selecting the label "activerecord":
+For the Rails repo: <https://github.com/rails/rails/issues> ⭐ 58,807 | 🐛 1,638 | 🌐 Ruby | 📅 2026-10-05, the following filter is built by selecting the label "activerecord":
 
 `is:issue label:activerecord`
 
