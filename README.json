@@ -21,7 +21,7 @@
                 "open_issues": 294,
                 "owner": "mislav",
                 "repo": "hub",
-                "stars": 22954,
+                "stars": 22955,
                 "topics": [
                   "git",
                   "github-api",
@@ -48,7 +48,7 @@
                 "open_issues": 294,
                 "owner": "mislav",
                 "repo": "hub",
-                "stars": 22954,
+                "stars": 22955,
                 "topics": [
                   "git",
                   "github-api",
@@ -157,7 +157,7 @@
                 "open_issues": 70,
                 "owner": "github",
                 "repo": "gitignore",
-                "stars": 175967,
+                "stars": 175980,
                 "topics": [
                   "git",
                   "gitignore"
@@ -177,8 +177,8 @@
                 "id": 24296070,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T17:40:11Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-17T21:23:58Z",
+                "open_issues": 2,
                 "owner": "unixorn",
                 "repo": "git-extra-commands",
                 "stars": 1174,
@@ -241,7 +241,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T09:44:40.106Z",
+    "last_updated": "2026-10-18T09:57:27.286Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of cool features of Git and GitHub.",
@@ -253,7 +253,7 @@
       "open_issues": 50,
       "owner": "tiimgreen",
       "repo": "github-cheat-sheet",
-      "stars": 59718,
+      "stars": 59747,
       "topics": [
         "awesome",
         "awesome-list",
