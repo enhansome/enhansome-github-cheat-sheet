@@ -311,7 +311,7 @@ This means that users who are not collaborators on the project will no longer be
 
 If set up correctly, every time you receive a Pull Request, [Travis CI](https://travis-ci.org/) will build that Pull Request just like it would every time you make a new commit. Read more about how to [get started with Travis CI](http://docs.travis-ci.com/user/getting-started/).
 
-[![Travis CI status](https://cloud.githubusercontent.com/assets/1687642/2700187/3a88838c-c410-11e3-9a46-e65e2a0458cd.png)](https://github.com/octokit/octokit.rb/pull/452) ⭐ 3,950 | 🐛 37 | 🌐 Ruby | 📅 2026-11-02
+[![Travis CI status](https://cloud.githubusercontent.com/assets/1687642/2700187/3a88838c-c410-11e3-9a46-e65e2a0458cd.png)](https://github.com/octokit/octokit.rb/pull/452) ⭐ 3,950 | 🐛 37 | 🌐 Ruby | 📅 2026-11-09
 
 [*Read more about the commit status API.*](https://github.com/blog/1227-commit-status-api)
 
@@ -319,7 +319,7 @@ If set up correctly, every time you receive a Pull Request, [Travis CI](https://
 
 Both issues and pull requests allow filtering in the user interface.
 
-For the Rails repo: <https://github.com/rails/rails/issues> ⭐ 59,084 | 🐛 1,761 | 🌐 Ruby | 📅 2026-11-09, the following filter is built by selecting the label "activerecord":
+For the Rails repo: <https://github.com/rails/rails/issues> ⭐ 59,091 | 🐛 1,758 | 🌐 Ruby | 📅 2026-11-10, the following filter is built by selecting the label "activerecord":
 
 `is:issue label:activerecord`
 
@@ -368,7 +368,7 @@ table.add_row('Tim Green', 'tiimgreen@gmail.com')
 puts table.to_s
 ```
 
-GitHub uses [Linguist](https://github.com/github/linguist) ⭐ 13,772 | 🐛 241 | 🌐 Ruby | 📅 2026-11-04 to perform language detection and syntax highlighting. You can find out which keywords are valid by perusing the [languages YAML file](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml) ⭐ 13,772 | 🐛 241 | 🌐 Ruby | 📅 2026-11-04.
+GitHub uses [Linguist](https://github.com/github/linguist) ⭐ 13,779 | 🐛 242 | 🌐 Ruby | 📅 2026-11-04 to perform language detection and syntax highlighting. You can find out which keywords are valid by perusing the [languages YAML file](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml) ⭐ 13,779 | 🐛 242 | 🌐 Ruby | 📅 2026-11-04.
 
 [*Read more about GitHub Flavored Markdown.*](https://help.github.com/articles/github-flavored-markdown/)
 
@@ -1121,8 +1121,8 @@ $ git config --global color.ui 1
 | Git Magic                                              | <http://www-cs-students.stanford.edu/~blynn/gitmagic/>                                       |
 | Git Visualization Playground                           | <http://onlywei.github.io/explain-git-with-d3/#freeplay>                                     |
 | Learn Git Branching                                    | <http://pcottle.github.io/learnGitBranching/>                                                |
-| A collection of useful .gitignore templates            | <https://github.com/github/gitignore> ⭐ 176,216 \| 🐛 24 \| 📅 2026-11-07                    |
-| Unixorn's git-extra-commands collection of git scripts | <https://github.com/unixorn/git-extra-commands> ⭐ 1,177 \| 🐛 8 \| 🌐 Shell \| 📅 2026-11-09 |
+| A collection of useful .gitignore templates            | <https://github.com/github/gitignore> ⭐ 176,378 \| 🐛 26 \| 📅 2026-11-09                    |
+| Unixorn's git-extra-commands collection of git scripts | <https://github.com/unixorn/git-extra-commands> ⭐ 1,177 \| 🐛 5 \| 🌐 Shell \| 📅 2026-11-09 |
 
 #### Git Books
 
@@ -1155,4 +1155,4 @@ $ git config --global color.ui 1
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
